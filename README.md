@@ -1,5 +1,10 @@
-# title(){return this.options.title||this.options.name}
+# Sign-Up-Form
+This demo is used to familiarize with form in React
 
+## Layout
+![Screen Shot 2022-03-20 at 4 56 16 PM](https://user-images.githubusercontent.com/61951792/159191557-465a0439-18ef-4830-a152-3f962c53aebb.png)
+
+--------
 Quick start:
 
 ```
